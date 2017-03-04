@@ -1,9 +1,0 @@
-git commands
-
-at end:
-git commit -m "message"
-git push origin <git-branch> (typically master)
-
-git rm -r --cached <name-of-github-directory>
-git add .
-
