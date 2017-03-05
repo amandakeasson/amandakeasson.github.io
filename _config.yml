@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 #
 
 # Name of your site (displayed in the header)
-name: Amanda's Lab Notebook
+title: Amanda's Lab Notebook
 
 # Short bio or description (displayed in the header)
 description: Repository for PhD projects
