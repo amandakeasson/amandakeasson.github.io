@@ -1,0 +1,32 @@
+theme: jekyll-theme-cayman
+
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+title: Amanda's Lab Notebook
+
+# Short bio or description (displayed in the header)
+description: Repository for PhD projects
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  email: aeasson@research.baycrest.org
+  github: amandakeasson
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
