@@ -1,5 +1,4 @@
-![alt text](https://github.com/amandakeasson/amandakeasson.github.io/profpic.jpg " ")
-
+![alt text](https://github.com/amandakeasson/amandakeasson.github.io/blob/master/profpic.jpg " ")
 I am a cognitive neuroscience PhD student at the University of Toronto and Rotman Research Institute at Baycrest Hospital.
 
 
