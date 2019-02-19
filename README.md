@@ -1,5 +1,4 @@
-# research_local
+# amandakeasson.github.io
 
-ipython notebooks
-
+code for my personal website
 
